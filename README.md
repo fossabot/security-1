@@ -1,4 +1,6 @@
 # Konveyor Security
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fsecurity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fsecurity?ref=badge_shield)
+
 
 Konveyor Security Vulnerability and disclosure process.
 
@@ -13,3 +15,7 @@ To report a vulnerability, please refer to https://github.com/konveyor/security/
 ### Code of conduct
 
 Participation in the Konveyor community is governed by the [Konveyor Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fsecurity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fsecurity?ref=badge_large)
